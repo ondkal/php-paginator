@@ -1,9 +1,9 @@
 {
     "name": "ondkal/paginator",
     "type": "library",
-    "description": "A lightweight PHP paginator, for generating pagination controls in the style of Stack Overflow and Flickr. The 'first' and 'last' page links are shown inline as page numbers, and excess page numbers are replaced by ellipses.",
+    "description": "A lightweight PHP paginator, for generating pagination controls in the style of Stack Overflow and Flickr. The 'first' and 'last' page links are shown inline as page numbers, and excess page numbers are replaced by ellipses. This is a fork of the original project by Jason Grimes that allows using item number (in addition to page number) as NUM_PLACEHOLDER for the target link in the URL.",
     "keywords": ["paginator", "pagination", "pager"],
-    "homepage": "http://github.com/jasongrimes/php-paginator",
+    "homepage": "http://github.com/ondkal/php-paginator",
     "license": "MIT",
     "authors": [
         {
